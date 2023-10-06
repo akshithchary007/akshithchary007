@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akshithchary007
-- 👀 I’m interested in programming,webdevelopment,fullstack development,technologies.
+- 👀 I’m interested in programming,webdevelopment,fullstack development,new technologies.
 - 🌱 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on any programming language course
 - 📫 How to reach me - mail:pabbojuakshithkumar@gmail.com
